@@ -10,7 +10,7 @@ import org.openqa.selenium.support.FindBy;
 import utilities.ExcelUtils;
 
 public class detailspage extends basepage {
-	String filePath = "C:\\Users\\2303455\\eclipse-workspace\\Hackathon\\Excel\\hackathon.xlsx";
+	
 
 	public detailspage(WebDriver driver) {
 		super(driver);

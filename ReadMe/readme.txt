@@ -77,4 +77,4 @@ The logs folder contains automation.log file. This file records the output of th
 The project code is available on GitHub at https://github.com/arifxiqbal/Hackathon-MMThttps://github.com/arifxiqbal/Hackathon-MMT. You can clone, fork, or download the repository using git commands or the GitHub web interface. 
 
 #Author
-Vighnesha Bhakta K P
+Chaithanya V B

@@ -1,54 +1,47 @@
-15:00:26.228 [main] INFO  testcase.TC1 - **** lowest price is displayed *****
-15:00:27.402 [main] INFO  testcase.TC1 - **** Took first testcase screenshot *****
-15:00:27.402 [main] INFO  testcase.TC1 - **** finished TC1  *****
-15:01:21.124 [main] INFO  testcase.TC2 - **** starting TC2  *****
-15:01:33.600 [main] INFO  testcase.TC2 - ****clicked on giftcards  *****
-15:01:34.101 [main] INFO  testcase.TC2 - **** random sender name is entered *****
-15:01:34.661 [main] INFO  testcase.TC2 - **** random phone number is entered *****
-15:01:35.135 [main] INFO  testcase.TC2 - **** random email is entered  *****
-15:01:36.674 [main] INFO  testcase.TC2 - **** clicked on buynow and captured error msg *****
-15:01:37.190 [main] INFO  testcase.TC2 - **** Took second testcase screenshot *****
-15:01:37.191 [main] INFO  testcase.TC2 - **** finished TC2  *****
-15:02:26.466 [main] INFO  testcase.TC3 - **** starting TC3  *****
-15:02:27.817 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
-15:02:30.906 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
-15:02:32.017 [main] INFO  testcase.TC3 - ****clicked on adults  *****
-15:02:39.256 [main] INFO  testcase.TC3 - ****captured the count and displayed*****
-15:02:40.088 [main] INFO  testcase.TC3 - **** Took third testcase screenshot *****
-15:02:40.088 [main] INFO  testcase.TC3 - **** finished TC3  *****
-15:35:24.454 [TestNG-tests-1] INFO  testcase.TC3 - **** starting TC3  *****
-15:35:25.622 [TestNG-tests-1] INFO  testcase.TC3 - ****clicked on Hotels  *****
-15:35:27.117 [TestNG-tests-1] INFO  testcase.TC3 - ****clicked on guests and rooms *****
-15:35:27.780 [TestNG-tests-1] INFO  testcase.TC3 - ****clicked on adults  *****
-15:35:36.114 [TestNG-tests-1] INFO  testcase.TC3 - ****captured the count and displayed*****
-15:35:36.898 [TestNG-tests-1] INFO  testcase.TC3 - **** Took third testcase screenshot *****
-15:35:36.898 [TestNG-tests-1] INFO  testcase.TC3 - **** finished TC3  *****
-18:10:42.547 [main] INFO  testcase.TC3 - **** starting TC3  *****
-18:10:43.894 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
-18:10:45.266 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
-18:10:46.076 [main] INFO  testcase.TC3 - ****clicked on adults  *****
-18:10:49.494 [main] ERROR testcase.TC3 - test failed..
-18:13:19.231 [main] INFO  testcase.TC3 - **** starting TC3  *****
-18:13:20.565 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
-18:13:21.587 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
-18:13:22.057 [main] INFO  testcase.TC3 - ****clicked on adults  *****
-18:13:25.816 [main] ERROR testcase.TC3 - test failed..
-18:15:38.953 [main] INFO  testcase.TC3 - **** starting TC3  *****
-18:15:39.837 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
-18:15:46.745 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
-18:15:47.097 [main] INFO  testcase.TC3 - ****clicked on adults  *****
-18:15:50.861 [main] ERROR testcase.TC3 - test failed..
-18:20:42.951 [main] INFO  testcase.TC3 - **** starting TC3  *****
-18:20:44.124 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
-18:20:47.184 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
-18:20:47.557 [main] INFO  testcase.TC3 - ****clicked on adults  *****
-18:21:01.687 [main] INFO  testcase.TC3 - ****captured the count and displayed*****
-18:21:02.676 [main] INFO  testcase.TC3 - **** Took third testcase screenshot *****
-18:21:02.677 [main] INFO  testcase.TC3 - **** finished TC3  *****
-18:30:43.761 [main] INFO  testcase.TC3 - **** starting TC3  *****
-18:30:45.048 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
-18:30:46.539 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
-18:30:47.558 [main] INFO  testcase.TC3 - ****clicked on adults  *****
-18:30:59.120 [main] INFO  testcase.TC3 - ****captured the count and displayed*****
-18:31:00.027 [main] INFO  testcase.TC3 - **** Took third testcase screenshot *****
-18:31:00.027 [main] INFO  testcase.TC3 - **** finished TC3  *****
+18:30:18.161 [main] INFO  testcase.TC3 - **** starting TC3  *****
+18:30:19.810 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
+18:30:20.446 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
+18:30:20.985 [main] INFO  testcase.TC3 - ****clicked on adults  *****
+18:30:21.081 [main] ERROR testcase.TC3 - test failed..
+18:33:11.260 [main] INFO  testcase.TC3 - **** starting TC3  *****
+18:33:12.704 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
+18:33:15.140 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
+18:33:15.466 [main] INFO  testcase.TC3 - ****clicked on adults  *****
+18:33:39.144 [main] INFO  testcase.TC3 - ****captured the count and displayed*****
+18:33:39.765 [main] INFO  testcase.TC3 - **** Took third testcase screenshot *****
+18:33:39.766 [main] INFO  testcase.TC3 - **** finished TC3  *****
+18:35:05.470 [main] INFO  testcase.TC1 - **** starting TC1 *****
+18:35:05.488 [main] INFO  testcase.TC1 - application logs started......
+18:35:07.395 [main] INFO  testcase.TC1 - ****clicked on cabs  *****
+18:35:09.355 [main] INFO  testcase.TC1 - **** clicked on from   *****
+18:35:10.258 [main] INFO  testcase.TC1 - **** entered as Delhi  *****
+18:35:11.255 [main] INFO  testcase.TC1 - **** clicked Delhi *****
+18:35:12.452 [main] INFO  testcase.TC1 - **** entered as Manali,Himachal Pradesh  *****
+18:35:14.995 [main] INFO  testcase.TC1 - **** date selected  *****
+18:35:15.533 [main] INFO  testcase.TC1 - **** selected hour as 6  *****
+18:35:15.978 [main] INFO  testcase.TC1 - **** selected min as 30  *****
+18:35:16.317 [main] INFO  testcase.TC1 - **** selected AM  *****
+18:35:16.742 [main] INFO  testcase.TC1 - **** clicked on apply  *****
+18:35:20.341 [main] INFO  testcase.TC1 - **** clicked on search *****
+18:35:22.879 [main] INFO  testcase.TC1 - **** clicked on SUV  *****
+18:35:23.429 [main] INFO  testcase.TC1 - **** clicked on filters *****
+18:35:23.830 [main] INFO  testcase.TC1 - **** selected on lowest to highest *****
+18:35:23.944 [main] INFO  testcase.TC1 - **** carlist is displayed  *****
+18:35:26.489 [main] INFO  testcase.TC1 - **** lowest price is displayed *****
+18:35:26.936 [main] INFO  testcase.TC1 - **** Took first testcase screenshot *****
+18:35:26.936 [main] INFO  testcase.TC1 - **** finished TC1  *****
+18:36:00.046 [main] INFO  testcase.TC2 - **** starting TC2  *****
+18:36:12.099 [main] INFO  testcase.TC2 - ****clicked on giftcards  *****
+18:36:13.631 [main] INFO  testcase.TC2 - **** random sender name is entered *****
+18:36:14.257 [main] INFO  testcase.TC2 - **** random phone number is entered *****
+18:36:15.091 [main] INFO  testcase.TC2 - **** random email is entered  *****
+18:36:16.744 [main] INFO  testcase.TC2 - **** clicked on buynow and captured error msg *****
+18:36:17.348 [main] INFO  testcase.TC2 - **** Took second testcase screenshot *****
+18:36:17.348 [main] INFO  testcase.TC2 - **** finished TC2  *****
+18:36:51.610 [main] INFO  testcase.TC3 - **** starting TC3  *****
+18:36:53.042 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
+18:36:53.992 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
+18:36:54.819 [main] INFO  testcase.TC3 - ****clicked on adults  *****
+18:37:03.952 [main] INFO  testcase.TC3 - ****captured the count and displayed*****
+18:37:04.619 [main] INFO  testcase.TC3 - **** Took third testcase screenshot *****
+18:37:04.619 [main] INFO  testcase.TC3 - **** finished TC3  *****

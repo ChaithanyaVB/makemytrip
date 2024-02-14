@@ -105,16 +105,23 @@ public class baseclass {
 		driver.manage().window().maximize();
 
 		driver.get(p.getProperty("PageURL"));
+		try {
+			
+		
 		driver.switchTo().frame("webklipper-publisher-widget-container-notification-frame");
 
 		driver.findElement(By.xpath("//*[@id='webklipper-publisher-widget-container-notification-close-div']/i"))
 				.click();
 
 		driver.switchTo().defaultContent();
+		}
+		catch(Exception e) {
+			System.out.println("");
+		}
 
 	}
 
-	@AfterClass(groups = { "cabs", "giftscards", "hotels" })
+	@AfterClass(groups = { "cabs", "giftcards", "hotels" })
 	public void teardown() throws InterruptedException {
 		Thread.sleep(10000);
 		driver.quit();

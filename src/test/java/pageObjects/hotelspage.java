@@ -13,7 +13,7 @@ import utilities.ExcelUtils;
 
 public class hotelspage extends basepage {
 
-	String filePath = "C:\\Users\\2303455\\eclipse-workspace\\Hackathon\\Excel\\hackathon.xlsx";
+	
 
 	public hotelspage(WebDriver driver) {
 		super(driver);
